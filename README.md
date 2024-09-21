@@ -2,8 +2,8 @@ Dependencias
 
 Este proyecto depende de las siguientes bibliotecas:
 
-    Qt5 (Widgets y Charts)
-    CMake para la configuración del proyecto
+   Qt5 (Widgets y Charts)
+   CMake para la configuración del proyecto
 
 Instalación de Dependencias en Ubuntu/Debian
 
@@ -24,9 +24,9 @@ Compilación e Instalación
 
   En Ubuntu/Debian
 
-    Clona el repositorio o copia los archivos del proyecto en un directorio.
+   Clona el repositorio o copia los archivos del proyecto en un directorio.
 
-    Crea un directorio de compilación dentro del proyecto:
+   Crea un directorio de compilación dentro del proyecto:
   
   En la terminal
 
@@ -82,14 +82,14 @@ Resultados Esperados
 
 El programa generará tres gráficas:
     
-    BubbleSort - Todos los Casos
-    SelectionSort - Todos los Casos
-    MergeSort - Todos los Casos
+   BubbleSort - Todos los Casos
+   SelectionSort - Todos los Casos
+   MergeSort - Todos los Casos
 
 Cada gráfica mostrará el tiempo de ejecución de cada algoritmo para los tres casos:
 
-    Mejor caso
-    Caso promedio
-    Peor caso
+   Mejor caso
+   Caso promedio
+   Peor caso
 
 El eje X representará el tamaño de la entrada N, y el eje Y representará el tiempo de ejecución en segundos.
